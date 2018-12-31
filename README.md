@@ -1,6 +1,14 @@
 # Trading Dashboard front-end
 
+[![Build Status](https://travis-ci.com/dmitryaleks/trading-dashboard.svg?branch=master)](https://travis-ci.com/dmitryaleks/trading-dashboard)
+
 This is a React.js based front-end application.
+
+## Sample screen capture of the live application
+
+<http://trade.dmitryaleks.com>
+
+![Front-end view (mobile)](docs/img/TSD_big.gif)
 
 ## Key properties of React.js
 
