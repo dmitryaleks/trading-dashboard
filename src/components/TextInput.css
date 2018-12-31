@@ -1,0 +1,11 @@
+.InputOrder {
+    padding: 8px 10px;
+    margin: 1px 0;
+    box-sizing: border-box;
+    height: 80px;
+    width: 150px;
+    margin-bottom: 12px;
+    font-size: 30px;
+    color: darkgreen;
+}
+

@@ -1,0 +1,93 @@
+.MainBlock {
+    width: 100%;
+    overflow: hidden;
+}
+
+.FloatLeft {
+    float: left;
+    width: 50%;
+}
+
+.Chart {
+    display: inline-block;
+    width: 50%;
+}
+
+.Clear {
+    clear: both;
+}
+
+.HorizontalDiv {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.OrderEntry {
+    padding-left: 42px;
+}
+
+.Button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    width: 280px;
+    height: 80px;
+}
+
+.Button:active {
+    background-color: orange;
+}
+
+.Title {
+	color: dimgray;
+	font-weight: bold;
+	display: block;
+	width: 380px;
+}
+
+.Label {
+    color: dimgray;
+    font-weight: bold;
+    display: block;
+    width: 100px;
+    float: left;
+    font-size: 24px;
+}
+
+.DataTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    white-space:nowrap;
+}
+
+table.DataTable tbody {
+    overflow: auto;
+    height: 100px;
+}
+
+table.DataTable td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table.DataTable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table.DataTable tr:hover {
+    background-color: #ddd;
+}
+
+table.DataTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
