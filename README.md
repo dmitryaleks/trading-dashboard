@@ -8,7 +8,7 @@ This is a React.js based front-end application.
 
 <http://trade.dmitryaleks.com>
 
-![Front-end view (mobile)](docs/img/TSD_big.gif)
+![Front-end view (mobile)](docs/img/TSD_RandomWalk.gif)
 
 ## Key properties of React.js
 
